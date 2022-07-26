@@ -1,6 +1,6 @@
 # Tomahawk Jupiter
 
-Hello, I'm @tomahawk-jupiter
+Hello, I'm tomahawk-jupiter
 
 I'm interested in alot of things but have mostly been learning / using the MERN stack so far. Recently I've been learning about web3 / blockchain which I find very exciting (but also challenging!).
 
