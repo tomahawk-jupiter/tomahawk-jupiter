@@ -2,39 +2,46 @@
 
 Hello, I'm tomahawk-jupiter
 
-I'm interested in MERN stack, Python, data analyses, blockchain, bash. MERN stack is probably my strongest skill so far. Aside from coding I'm into playing guitar, mostly fingerstyle and blues.
+I'm relatively new to coding but I've got really into it! Mostly I use the MERN stack but I'm always learning new things. Besides coding I'm also into playing guitar, mostly fingerstyle and blues.
 
-I'm very dedicated to improving my skills and knowledge, I study and practise every day. My aim is to build a career in this industry and in the mean time learn as much as I can.
+I'm trying to gain enough skills and experience to start a career in web development or some other kind of coding. I'm open to meeting new people and collaborating on projects.
 
 ## Contact Me
 
 [Portfolio page](https://tomahawk-jupiter.github.io/portfolio/)
 
+You can contact me via my portfolio, its a bit basic at the moment but I'm going to sort it out soon.
+
 ## My Journey So Far
 
-I started learning how to code at the end of Jan 2021 and was immediately obsessed! I have come so far when I look back to where I began! Its been challenging and frustrating at times as I'm sure everyone who learns this stuff will understand!
+This is a log of my coding journey if anyones interested. It also serves as a reference for myself.
+
+I started learning how to code at the end of Jan 2021 and was immediately obsessed! I have come so far when I look back to where I began!
 
 Jan '21  
-I started with [freeCodeCamp](https://www.freecodecamp.org/) and then [The Odin Project](https://www.theodinproject.com/) aswell as some supplemental youTube tutorials. [Traversy Media](https://www.youtube.com/c/TraversyMedia) channel is a great resource.
+I started with [freeCodeCamp](https://www.freecodecamp.org/) and then [The Odin Project](https://www.theodinproject.com/) and various youTube videos. This is where I was first introduced to the MERN stack.
 
 Setting up and using my own local development environment with VSCode, Node, NPM, and Git was very rewarding and so was learning how to deploy my first full stack app! I spent alot of time playing around with MERN stack and plain CSS.
 
-Next I found the free CS50 Intro to Computer Science course on edX and Intro to Data Structures and Algorithms by google on Udacity which were very helpful for learning some computer science fundamentals giving me a better understanding of whats happening behind the scenes. 
+Next I found the free CS50 Intro to Computer Science course on edX and Intro to Data Structures and Algorithms by google on Udacity which were very helpful for learning some computer science fundamentals giving me a better understanding of whats happening behind the scenes.
 
 June & Jul '22  
 I followed along to the [Patrick Collins blockchain video](https://www.youtube.com/watch?v=gyMwXuJrbJQ) to learn something about all that cool stuff.
 
 Sep '22  
-I learnt about bash and bash scripting from various resources (I really like using bash, makes me feel like a hacker in a movie!) and started using [HackerRank](https://www.hackerrank.com/) to practise coding skills and various languages.
+I learnt some bash and bash scripting from various resources and started using [HackerRank](https://www.hackerrank.com/) to practise coding skills and various languages.
 
 Oct '22  
-Recently I installed LAMP stack and wordpress to play around with that stuff a bit and maybe learn a bit of PHP. Also I installed jupiter notebook in a virtualenv with the aim to practise some data analyses using Python libraries like pandas and matplotlib because I find that stuff really interesting. 
+Recently I installed LAMP stack and wordpress to play around with that stuff a bit and maybe learn some PHP. Also I installed jupiter notebook to play around with pandas and matplot etc. and also look at some machine learning stuff. I found [kaggle](https://www.kaggle.com/) and have been going through some of their tutorials.
 
-I need to find another place to host my fullstack projects now that Heroku are stopping the free tier! 
+Feb '23  
+I've been playing around with Material UI and also [Gatsby](https://www.gatsbyjs.com/). I'm trying to learn how to streamline the web dev process with different tools and services, and get up to a professional standard. I learnt some mySql and PHP using xampp.
 
-## Project Ideas
+## Whats Next?
 
-I've been thinking about making a guitar teaching website app or blog or something for a real world project. I've been looking at and playing with tab, music and chord diagram libraries so that I can use them to notate lessons and examples. I would also like to include audio or video recordings for each example. 
+I'm looking to get some real world experience and meet some other coders who I can learn from or collaborate with. I might look at Django or Flask, or maybe learn some Java next. 
+
+Currently I'm working on building some better projects for my portfolio.
 
 <!---
 tomahawk-jupiter/tomahawk-jupiter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
