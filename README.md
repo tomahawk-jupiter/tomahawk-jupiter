@@ -1,47 +1,46 @@
 # Tomahawk Jupiter
 
-Hello, I'm tomahawk-jupiter
+Hello, I'm tomahawk-jupiter.
 
-I'm relatively new to coding but I've got really into it! Mostly I use the MERN stack but I'm always learning new things. Besides coding I'm also into playing guitar, mostly fingerstyle and blues.
+I'm a self taught (with the help of some excellent free resources!) coder.
 
-I'm trying to gain enough skills and experience to start a career in web development or some other kind of coding. I'm open to meeting new people and collaborating on projects.
-
-## Contact Me
-
-[Portfolio page](https://tomahawk-jupiter.github.io/portfolio/)
-
-You can contact me via my portfolio, its a bit basic at the moment but I'm going to sort it out soon.
+Besides coding I'm also into playing guitar, mostly fingerstyle and blues. I've spent some time trying to figure out the best way to include guitar tab (for fingerstyle arrangements) on a webpage but haven't found anything satisfactory yet.
 
 ## My Journey So Far
 
-This is a log of my coding journey if anyones interested. It also serves as a reference for myself.
-
-I started learning how to code at the end of Jan 2021 and was immediately obsessed! I have come so far when I look back to where I began!
+This is a log of my coding journey.
 
 Jan '21  
-I started with [freeCodeCamp](https://www.freecodecamp.org/) and then [The Odin Project](https://www.theodinproject.com/) and various youTube videos. This is where I was first introduced to the MERN stack.
+I started with [freeCodeCamp](https://www.freecodecamp.org/) and then [The Odin Project](https://www.theodinproject.com/) and google/youtube when I got stuck. This is where I was first introduced to HTML, CSS, JavaScript and the MERN stack. I also learnt a bit about python and its packages like pandas.
 
-Setting up and using my own local development environment with VSCode, Node, NPM, and Git was very rewarding and so was learning how to deploy my first full stack app! I spent alot of time playing around with MERN stack and plain CSS.
+I installed ubuntu at some point, everything got easier after that!
 
-Next I found the free CS50 Intro to Computer Science course on edX and Intro to Data Structures and Algorithms by google on Udacity which were very helpful for learning some computer science fundamentals giving me a better understanding of whats happening behind the scenes.
+Next I found the free CS50 Intro to Computer Science course on edX which I found very helpful in improving my understanding of computer fundamentals.
 
-June & Jul '22  
-I followed along to the [Patrick Collins blockchain video](https://www.youtube.com/watch?v=gyMwXuJrbJQ) to learn something about all that cool stuff.
+Jul '22  
+I followed along to the [Patrick Collins blockchain video](https://www.youtube.com/watch?v=gyMwXuJrbJQ) to learn something about web3.
 
 Sep '22  
-I learnt some bash and bash scripting from various resources and started using [HackerRank](https://www.hackerrank.com/) to practise coding skills and various languages.
+I learnt some bash and bash scripting from various resources. I also started using [HackerRank](https://www.hackerrank.com/) to practise coding skills and various languages.
 
 Oct '22  
-Recently I installed LAMP stack and wordpress to play around with that stuff a bit and maybe learn some PHP. Also I installed jupiter notebook to play around with pandas and matplot etc. and also look at some machine learning stuff. I found [kaggle](https://www.kaggle.com/) and have been going through some of their tutorials.
+I installed LAMP stack and wordpress to play around with.
+
+I installed jupyter notebook to play around with pandas, matplot, etc. and also look at some machine learning stuff. I found [kaggle](https://www.kaggle.com/) and have been going through some of their tutorials.
+
+I got a new computer. I installed Anaconda which made getting setup with python and jupyter etc very easy, previously I was using virtualenv.
 
 Feb '23  
-I've been playing around with Material UI and also [Gatsby](https://www.gatsbyjs.com/). I'm trying to learn how to streamline the web dev process with different tools and services, and get up to a professional standard. I learnt some mySql and PHP using xampp.
+I've been playing around with Material UI and [Gatsby](https://www.gatsbyjs.com/). Also emotion and styled-components.
 
-## Whats Next?
+I installed xampp and learnt how to make a basic PHP & mySql website.
 
-I'm looking to get some real world experience and meet some other coders who I can learn from or collaborate with. I might look at Django or Flask, or maybe learn some Java next. 
+May '23  
+I learnt some Java and how to make a basic android app. I really liked java.
 
-Currently I'm working on building some better projects for my portfolio.
+Followed getting started tutorials for Vuejs, Django and Nextjs to see what they're like.
+
+I've decided to start a blog so I can log what I learn. I'm going to use Nextjs to build it. I've been trying different ways to get syntax highlighting working for code examples.
 
 <!---
 tomahawk-jupiter/tomahawk-jupiter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
