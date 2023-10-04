@@ -42,6 +42,11 @@ Followed getting started tutorials for Vuejs, Django and Nextjs to see what they
 
 I made a blog using NextJS and setup syntax highlighting for code blocks in blog posts.
 
+Oct '23  
+Had a bit of a hiatus from coding. 
+
+Completed some challenges from [frontendmentor.io](https://www.frontendmentor.io/).
+
 <!---
 tomahawk-jupiter/tomahawk-jupiter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
