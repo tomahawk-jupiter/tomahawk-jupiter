@@ -2,9 +2,9 @@
 
 Hello, I'm tomahawk-jupiter.
 
-I'm a self taught (with the help of some excellent free resources!) coder.
+I'm a self taught (with the help of some excellent free resources!) coder. I've had most practise with the MERN stack but I'm interested in pretty much anything to do with coding I come across, I've tried to learn a little about everything. I hope to eventually start a career in this industry.
 
-Besides coding I'm also into playing guitar, mostly fingerstyle and blues. I've spent some time trying to figure out the best way to include guitar tab (for fingerstyle arrangements) on a webpage but haven't found anything satisfactory yet.
+Besides coding I'm also into playing guitar, mostly fingerstyle and blues. I've spent some time trying to figure out the best way to include responsive guitar tab (for fingerstyle arrangements) on a webpage but haven't found anything satisfactory yet.
 
 ## My Journey So Far
 
@@ -40,10 +40,10 @@ I learnt some Java and how to make a basic android app. I really liked java.
 
 Followed getting started tutorials for Vuejs, Django and Nextjs to see what they're like.
 
-I made a blog using NextJS and setup syntax highlighting for code blocks in blog posts.
+I made a blog using [NextJS](https://nextjs.org/) and setup syntax highlighting for code blocks in blog posts.
 
 Oct '23  
-Had a bit of a hiatus from coding. 
+Had a bit of a hiatus from coding. Not really sure what direction to go in.
 
 Completed some challenges from [frontendmentor.io](https://www.frontendmentor.io/).
 
