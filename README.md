@@ -40,7 +40,7 @@ I learnt some Java and how to make a basic android app. I really liked java.
 
 Followed getting started tutorials for Vuejs, Django and Nextjs to see what they're like.
 
-I've decided to start a blog so I can log what I learn. I'm going to use Nextjs to build it. I've been trying different ways to get syntax highlighting working for code examples.
+I made a blog using NextJS and setup syntax highlighting for code blocks in blog posts.
 
 <!---
 tomahawk-jupiter/tomahawk-jupiter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
