@@ -18,6 +18,7 @@ I'm pretty confident/competant with React now and more recently been mostly usin
 - A little bit of Java
 - Computer Science basics
 
+Besides coding I'm a competent guitar player I've been playing for 20+ years, it was my first obsession before I came across coding.
 <!---
 tomahawk-jupiter/tomahawk-jupiter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
