@@ -1,24 +1,13 @@
 # Tomahawk Jupiter
 
-Hello, I'm tomahawk-jupiter.
+Hello, this is a little about my coding journey.
 
-I've been learning to code for a while now. I started with FreeCodeCamp and then The Odin project (both focus mosly on MERN stack). Since completing those I've been learning from various resources.
+I started with FreeCodeCamp and then The Odin project (both focus mosly on MERN stack). Since completing those I've been learning from various resources.
 
-I've mostly been practising web development but I'm interested in and have learnt lots of other coding/computer related things.
+More recently I came across the OSSU Computer Science curriculum which provides a learning path for self study and having been working my way through that.
 
-My goal is to escape my horrible retail job and do something more intellectually and financially rewarding!
+My repo mostly consists of practice and learning projects, so far I haven't worked on any professional ones.
 
-I'm pretty confident/competant with React now and more recently been mostly using NextJS to make things. I can make MERN stack apps but haven't had any professional experience yet so don't know for sure what my ability level really is.
-
-## Some other things I've studied/played around with
-
-- Python: some data analyses and a little machine learning
-- SQL
-- Some Bash & Bash scripting
-- A little bit of Java
-- Computer Science basics
-
-Besides coding I'm a competent guitar player I've been playing for 20+ years, it was my first obsession before I came across coding.
 <!---
 tomahawk-jupiter/tomahawk-jupiter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
