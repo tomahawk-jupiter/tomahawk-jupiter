@@ -6,7 +6,7 @@ I started with FreeCodeCamp and then The Odin project (both focus mosly on MERN 
 
 More recently I came across the OSSU Computer Science curriculum which provides a learning path for self study and have been working my way through that.
 
-My repo mostly consists of practice and learning projects, so far I haven't worked on any professional ones.
+My repo mostly consists of practice and learning projects, my more serious projects are kept private.
 
 <!---
 tomahawk-jupiter/tomahawk-jupiter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
